@@ -1,0 +1,125 @@
+.header-1{
+    font-size: 50px;
+    font-weight: 900;
+   
+}
+p{
+    font-size: 20px;
+    
+}
+button{
+   background-color: #ef2626;
+   
+   height:50px ;
+   width: 200px;
+   border-radius: 10px;
+   text-align: center;
+  
+}
+.h2{
+    font: 30px manrope,sans-serif;
+    margin-right: 80px;
+}
+
+.div-1{
+    display: flex;
+}
+.div-3{
+    background-color: antiquewhite;
+    margin-left: 600px;
+    margin-top: 200px;
+    height: 100px;
+    width: 200px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.h2-2{
+    
+    font-size: 50px;
+    text-align: center;
+}
+.section-peragraph{
+    text-align: center;
+    margin: 0px 250px 40px;
+}
+.div-4{
+    display: flex;
+}
+.div-5{
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(../images/fresh-2.png);
+    background-repeat: no-repeat;
+}
+.div-6{
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(../images/news-3.png);
+    background-repeat: no-repeat;
+}
+
+.div-7{
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(../images/news-2.png);
+    background-repeat: no-repeat;
+}
+
+.div-8{
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(../images/news-1.png);
+    background-repeat: no-repeat;
+}
+.div-4 div{
+    margin: 30px;
+    height: 140px;
+    width: 250px;
+}
+#box-1{
+    background-color: aquamarine;
+    height: 130px;
+    width: 230px;
+    margin: 5px;
+}
+#box-2{
+    background-color: aqua;
+    height: 130px;
+    width: 230px;
+    margin: 5px;
+}
+#box-3{
+    background-color: blueviolet;
+    height: 130px;
+    width: 230px;
+    margin: 5px;
+}
+#box-4{
+    background-color: chartreuse;
+    height: 130px;
+    width: 230px;
+    margin: 5px;
+}
+.div-9{
+    display: flex;
+}
+.div-10{
+      display: flex;
+}
